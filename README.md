@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranav Mahajan</h1>
+<h1 align="center">Howdy 👋, I'm Pranav Mahajan</h1>
 <h3 align="center">An aspiring Data Scientist</h3>
 
 - 🔭 I’m currently working on [Toxic Comment Classifier API](https://github.com/pmahajan11/tcc-api)
