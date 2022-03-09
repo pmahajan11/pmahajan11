@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Toxic Comment Classifier API](https://github.com/pmahajan11/tcc-api)
 
-- 🌱 I’m currently learning **Data Engineering basics, NoSQl Databases, etc.**
+- 🌱 I’m currently learning **Data Engineering basics, NoSQL Databases, etc.**
 
 - 👯 I’m looking to collaborate on **cool Machine Learning projects**
 
