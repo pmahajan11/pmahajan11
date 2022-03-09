@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **cool Machine Learning projects**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/pmahajan11?tab=repositories](https://github.com/pmahajan11?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/pmahajan11?tab=repositories)
 
 - 📫 How to reach me **pranav.m1124@gmail.com**
 
