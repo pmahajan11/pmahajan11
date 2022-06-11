@@ -1,11 +1,9 @@
 <h1 align="center">Howdy 👋, I'm Pranav </h1>
 <h3 align="center">An aspiring Data Scientist</h3>
 
-- 🔭 I’m currently working on [Toxic Comment Classifier API](https://github.com/pmahajan11/tcc-api)
+- 🔭 Seeking Data Science or Data Analytics Internships
 
-- 🌱 I’m currently learning **Data Engineering basics, NoSQL Databases, etc.**
-
-- 👯 I’m looking to collaborate on **cool Machine Learning projects**
+- 👯 IWould love to collaborate on **cool Machine Learning projects**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/pmahajan11?tab=repositories)
 
